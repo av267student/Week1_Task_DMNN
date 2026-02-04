@@ -26,9 +26,5 @@
 
 ---
 
-## File Path Fix:
 
-Update the data loading cell with your file location:
-```python
-df = pd.read_excel('data/online_retail.xlsx')
-```
+
